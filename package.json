@@ -1,0 +1,31 @@
+{
+    "name": "@govtechsg/file-compression",
+    "version": "1.0.0",
+    "description": "A helper to resample and compress files",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GovTechSG/file-compression.git"
+    },
+    "keywords": [
+        "file-compress"
+    ],
+    "author": "GovtechSG",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GovTechSG/file-compression/issues"
+    },
+    "homepage": "https://github.com/GovTechSG/file-compression#readme",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^6.0.0",
+        "@typescript-eslint/parser": "^6.0.0",
+        "eslint": "^8.44.0",
+        "eslint-config-prettier": "^8.8.0",
+        "husky": "^8.0.3",
+        "prettier": "^3.0.0",
+        "typescript": "^5.1.6"
+    }
+}
